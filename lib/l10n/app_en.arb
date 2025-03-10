@@ -1,0 +1,12 @@
+{
+  "profileTitle": "Simple Profile",
+  "name": "Brice Séraphin",
+  "job": "Product & Print Designer",
+  "location": "Paris, France",
+  "summary": "Enthusiastic young computer Geek, Freelance Designer in love of Independence, I have a lot of experience in graphical projects, and always give the best of myself to bring you to success.",
+  "skillSection": "Skills",
+  "personalInformationSection": "Personal Information",
+  "email": "Email",
+  "password": "Password",
+  "buttonText": "Save"
+}
